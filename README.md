@@ -75,3 +75,7 @@ This uses `pytest`. Install and run `python3 -m pytest -v path/to/test.py`.
 ### Installation instructions are bare
 
 The install instructions are incredibly minimal at the moment. Feel free to contribute a PR to update them with more info.
+
+### There is nothing in the Scala Folder?
+
+This will be updated later if I have more inteviews requiring Scala.
