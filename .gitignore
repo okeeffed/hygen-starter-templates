@@ -1,0 +1,12 @@
+node_modules/
+build/
+./index.js
+nodemon.json
+.gradle
+.settings
+bin
+.classpath
+.project
+__pycache__/
+.pytest_cache/
+kratos.json
